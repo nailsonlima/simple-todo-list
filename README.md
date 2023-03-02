@@ -1,4 +1,4 @@
-# TO-DO List
+# to-do List
 
 <p>Lista de TAREFAS A EXECUTAR simples e funcional.</p>
 
